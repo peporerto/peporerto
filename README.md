@@ -1,10 +1,12 @@
-📘 English | [🇪🇸 Ver en Español](./README_ES.md)
+📘 **English** | 🇪🇸 **Español abajo (clic para desplegar)**
+
+---
 
 <h1 align="center">👋 Hi, I'm <strong>Santiago Guisao</strong></h1>
 <h3 align="center">💻 Full Stack Developer | React · NestJS · AWS</h3>
 
 <p align="center">
-  🇨🇴 Colombian Developer in Canada • 3+ Years Experience  
+  🇨🇴 Based in Canada • 3+ Years Experience  
   <br/>
   Backend-Focused · AI-Driven · Cloud-Ready
 </p>
@@ -13,16 +15,17 @@
 
 ## 🚀 About Me
 
-I'm a full stack developer passionate about building **scalable backends, clean architecture, and modern UI**.  
-I enjoy solving real business problems using:
+I'm a full stack developer passionate about building **scalable backends, clean architecture, and modern UI**.
+
+I enjoy solving real problems using:
 
 - 🧱 **NestJS + SQL** for strong backend systems  
-- ⚛️ **React** for interactive, modern interfaces  
-- ☁️ **AWS** for secure, efficient cloud deployment  
-- 🤖 **AI / LLMs** for smarter applications  
+- ⚛️ **React** for modern interfaces  
+- ☁️ **AWS** for secure and efficient deployments  
+- 🤖 **AI / LLMs** to build smarter applications  
 - 🛠️ **DevOps basics** for automation and CI/CD  
 
-I'm self-taught, detail-oriented, and I love building real products from scratch.
+Self-taught, detail-oriented, and comfortable building real products from scratch.
 
 ---
 
@@ -40,7 +43,7 @@ I'm self-taught, detail-oriented, and I love building real products from scratch
 
 ### 🔹 **Cloud**
 - AWS (S3, Cognito, CloudFront, Lambda, DynamoDB)  
-- Terraform (beginner-friendly)  
+- Terraform (beginner)  
 - Jenkins pipelines  
 
 ### 🔹 **AI**
@@ -52,108 +55,62 @@ I'm self-taught, detail-oriented, and I love building real products from scratch
 
 ## 🔭 Current Projects (2025)
 
-### 🌟 **SoftSkill AI – Full Stack App (Coming Soon Public MVP)**
+### 🌟 **SoftSkill AI – Full Stack App (MVP Public Soon)**
 📌 React + NestJS + PostgreSQL + OpenAI  
-A platform that evaluates soft skills using structured assessments and AI.  
-Helps job seekers understand strengths and receive personalized recommendations.
+AI-powered soft skills evaluation platform.  
+Helps job seekers understand strengths and receive tailored recommendations.
 
-🟩 **Public:** MVP version (auth, eval flow, minimal AI)  
-🛑 **Private:** Full version (advanced logic + recommendations)
+🟩 **Public:** MVP version  
+🛑 **Private:** Full advanced version
 
 ---
 
 ### 🧱 **Backend Clean Template (NestJS)**
-A clean, production-ready backend starter featuring:
+A production-ready backend starter with:
 
-- JWT authentication  
+- JWT Auth  
 - CRUD modules  
 - Clean architecture  
-- Docker + docker-compose  
+- Docker  
 - Swagger docs  
 - Unit + integration tests  
-
-Perfect for interviews and demonstrating backend standards.
 
 ---
 
 ### 📊 **React Dashboard**
-A modern UI dashboard with:
+Modern UI with:
 
 - Charts  
 - Tables  
-- Authentication UI  
+- Auth UI  
 - API integration  
 - Tailwind + shadcn/ui  
 
-Lightweight, clean, and perfect for showcasing front-end capability.
-
 ---
 
-## 📁 Additional Projects Included in Portfolio
+## 📁 Additional Portfolio Projects
 
 ---
 
 ### 🗓️ **Interactive Weekly Agenda**  
-📌 Repository: https://github.com/peporerto/Interactive-Weekly-Agenda
+📌 https://github.com/peporerto/Interactive-Weekly-Agenda
 
-A clean and interactive scheduling app where users can organize activities by day, manage tasks, and visualize their weekly workflow.
-
-**Stack:**  
-- React  
-- Tailwind  
-- Local state management  
-
-**Features:**  
-- Add, edit, delete weekly tasks  
-- Drag-and-drop interactions  
-- Clean UI focused on productivity  
-
-Perfect example of a polished and functional front-end project.
+Interactive React app to organize weekly tasks with drag-and-drop.
 
 ---
 
 ### ⚙️ **Jenkins + Docker + Terraform + AWS — IaC Pipeline**  
-📌 Repository: https://github.com/peporerto/Jenkins-Docker-Terraform-y-AWS
+📌 https://github.com/peporerto/Jenkins-Docker-Terraform-y-AWS
 
-A DevOps demonstration project using IaC to provision cloud resources automatically.
-
-🧩 **What this project does:**  
-- Deploys an EC2 instance in AWS  
-- Installs Jenkins + Docker automatically  
-- Uses Terraform modules for infrastructure  
-- Pipeline allows **Deploy** or **Destroy** from Jenkins UI  
-
-🚀 **Stack Used**  
-| Tool | Purpose |
-|------|---------|
-| Terraform | Infrastructure as Code |
-| Jenkins | CI/CD automation |
-| Docker | Jenkins container |
-| AWS | EC2, VPC, SG, network |
-
-🔒 **Security Notes**  
-- SSH open for lab purposes  
-- In production, restrict SG rules  
-
-This project demonstrates practical **DevOps + Cloud infrastructure** skills.
+Infrastructure automation with Terraform modules and Jenkins pipelines.  
+Deploy or destroy AWS infra directly from Jenkins.
 
 ---
 
 ### 🐍 **PersonalSoft Test – Python Scraping + React CRUD**  
-📌 Repository: https://github.com/peporerto/test-personalsoft
+📌 https://github.com/peporerto/test-personalsoft
 
-A multi-tech project combining backend automation with a React frontend.
-
-**Stack:**  
-- Python (scraping + data processing)  
-- React (UI / CRUD system)  
-
-**What it does:**  
-- Scrapes product data  
-- Stores & compares prices  
-- Displays results in a clean React interface  
-
-Great example of **problem-solving + data extraction + full-stack workflow**.
+Python scraper + React interface to compare product prices.
 
 ---
 
@@ -165,9 +122,93 @@ Great example of **problem-solving + data extraction + full-stack workflow**.
 
 ---
 
-## ⚡ Fun Facts
-- I enjoy engineering solutions that make real impact  
-- I like learning new tools and improving code architecture  
-- I enjoy mentoring and helping others grow professionally  
+<details>
+  <summary><h2>🇪🇸 Versión en Español (haz clic para desplegar)</h2></summary>
+
+<h1 align="center">👋 Hola, soy <strong>Santiago Guisao</strong></h1>
+<h3 align="center">💻 Desarrollador Full Stack | React · NestJS · AWS</h3>
+
+<p align="center">
+  🇨🇴 Colombiano en Canadá • Más de 3 años de experiencia  
+  <br/>
+  Enfoque Backend · IA · Preparado para la Nube
+</p>
+
+---
+
+## 🚀 Sobre mí
+
+Soy desarrollador full stack con pasión por crear **backends escalables, arquitecturas limpias y UIs modernas**.
+
+Me encanta resolver problemas reales usando:
+
+- 🧱 **NestJS + SQL**  
+- ⚛️ **React**  
+- ☁️ **AWS**  
+- 🤖 **IA / LLMs**  
+- 🛠️ **DevOps básico**  
+
+---
+
+## 🧰 Stack Tecnológico
+
+### 🔹 **Backend**
+NestJS · Express · TypeScript  
+PostgreSQL · Sequelize · Prisma  
+Redis · Kafka · Webhooks  
+Docker · GitHub Actions · CI/CD  
+
+### 🔹 **Frontend**
+React · Angular  
+Tailwind · shadcn/ui · TanStack Query  
+
+### 🔹 **Cloud**
+AWS (S3, Cognito, CloudFront, Lambda, DynamoDB)  
+Terraform · Jenkins  
+
+### 🔹 **IA**
+OpenAI API  
+Ingeniería de prompts  
+
+---
+
+## 🔭 Proyectos Actuales (2025)
+
+### 🌟 **SoftSkill AI**
+Plataforma que analiza habilidades blandas usando IA.  
+Versión MVP será pública.
+
+---
+
+### 🧱 **Plantilla Backend (NestJS)**
+Backend listo para producción con autenticación, arquitectura limpia y pruebas.
+
+---
+
+### 📊 **Dashboard en React**
+UI moderna con gráficos, tablas y autenticación.
+
+---
+
+## 📁 Proyectos extra del portafolio
+
+### 🗓️ Interactive Weekly Agenda  
+Organizador semanal con arrastrar y soltar.
+
+### ⚙️ Jenkins + Docker + Terraform + AWS  
+Pipeline IaC automatizado con Jenkins.
+
+### 🐍 Python Scraping + React CRUD  
+Scraping de precios y panel de comparación.
+
+---
+
+## 📫 Contacto
+
+- Linkedin: https://www.linkedin.com/in/santiago-guisao-yusti  
+- Email: santiagog2142@gmail.com  
+- GitHub: https://github.com/peporerto  
+
+</details>
 
 ---
